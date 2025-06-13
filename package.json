@@ -1,7 +1,7 @@
 {
   "name": "rest-api",
   "version": "1.0.0",
-  "description": "Ryzen rest API",
+  "description": "Rizz rest API",
   "main": "main.js",
   "type": "commonjs",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShirokamiRyzen/Ryzen-RestAPI.git"
+    "url": "https://github.com/ZeusXploit13/dns.github.io.git"
   },
   "keywords": [
     "Express"
@@ -52,6 +52,7 @@
     "outlayer": "^2.1.1",
     "popper.js": "^1.16.1",
     "qs": "^6.11.2",
+    "@bochilteam/scraper": "^1.0.0",
     "request": "^2.88.2",
     "soundoftext-js": "^1.0.2",
     "ssl-express-www": "^3.0.7",
