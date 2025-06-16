@@ -39,6 +39,7 @@
     "google-it": "^1.6.4",
     "html-to-text": "^9.0.3",
     "is-number": "^7.0.0",
+    "express": "^4.18.2",
     "is-url": "^1.2.4",
     "isotope-layout": "^3.0.6",
     "jimp": "^0.22.10",
